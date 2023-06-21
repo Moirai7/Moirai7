@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My goal is to address cybersecurity problems leveraging AI, focusing on automating threat detection, enhancing cyber analysis, and bolstering the efficiency and resilience of our digital ecosystems.
+
 <!--
 **Moirai7/Moirai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
